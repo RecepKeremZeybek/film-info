@@ -2,11 +2,11 @@
 
 import React from 'react'
 
-const FilmYear = () => {
+const FilmYear = ({film,onYearClick}) => {
   return (
-    <div>
+    <p onClick={}>
       
-    </div>
+    </p>
   )
 }
 
